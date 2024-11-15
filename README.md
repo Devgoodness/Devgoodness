@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang.
 - 💞️ I’m looking to collaborate on open-source UI component libraries.
 - 📫 How to reach me emmanuelgoodness923@gmail.com
-- ⚡ Fun fact: ...Caffeine-fueled coder 😎, bookworm(Tim Berners-lee, Andrew Ng)
+- ⚡ Fun fact: ...Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng)😎
 
 <!---
 Devgoodness/Devgoodness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
