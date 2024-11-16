@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on open-source UI component libraries.
 - 📫 How to reach me emmanuelgoodness923@gmail.com
 - ⚡ Fun fact: ...Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng)😎
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,JavaScript,react,git,sass,bootstrap,typescript,github)](https://skillicons.dev)
+- 
 <!---
 Devgoodness/Devgoodness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
