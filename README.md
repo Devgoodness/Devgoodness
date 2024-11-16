@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng)😎
 
   Technologies & tools i work with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,git,sass,bootstrap,typescript,go,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,git,sass,bootstrap,typescript,go,github,vscode,terminal)](https://skillicons.dev)
 - 
 <!---
 Devgoodness/Devgoodness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
