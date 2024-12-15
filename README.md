@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning fullstack software development.
 - 💞️ I’m looking to collaborate on open-source UI component libraries.
 - 📫 How to reach me emmanuelgoodness923@gmail.com
-- ⚡ Fun fact: ...Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng)📖, call me GUDU😎
-  Languages, technologies & tools i work with
+- ⚡ Fun fact: ...Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng)📖, call me GUDU😎.
+  Languages, technologies & tools i work with.
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,git,sass,bootstrap,typescript,go,github,vscode,i )](https://skillicons.dev)
 -  
 <!---
