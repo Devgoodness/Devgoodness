@@ -8,7 +8,7 @@
 - 
   Languages, technologies & tools i work with.
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,git,sass,bootstrap,typescript,github,vscode,firebasei )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,git,sass,bootstrap,typescript,github,vscode,firebase )](https://skillicons.dev)
 -  
 <!---
 Devgoodness/Devgoodness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
