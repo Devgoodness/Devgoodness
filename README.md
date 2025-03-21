@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Goodness, a detail-oriented frontend developer with over 2 years of experience in crafting responsive, user-friendly interfaces for web applications.
-- proficient in HTML5, CSS3, javaScript, and other frontend technologies and libraries. i.e tailwind css, reactjs, bootstrap, sass etc.
+- proficient in HTML5, CSS3, javaScript, react, git, tailwind css and typescript.
 - 👀 I’m interested in open-source advocacy.
 - 🌱 I’m currently learning fullstack software development.
 - 💞️ I’m looking to collaborate on open-source UI component libraries.
@@ -8,7 +8,7 @@
 - 
   Languages, technologies & tools i work with.
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,git,sass,bootstrap,typescript,github,vscode,i )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,git,sass,bootstrap,typescript,github,vscode,firebasei )](https://skillicons.dev)
 -  
 <!---
 Devgoodness/Devgoodness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
