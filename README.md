@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Goodness, a detail-oriented frontend developer with over 2 years of experience in crafting responsive, user-friendly interfaces for web applications.
 - proficient in HTML5, CSS3, javaScript, react, git, tailwind css and typescript.
-- 👀 I’m interested in open-source advocacy | APIs | CI/CD. 
+- 👀 I’m interested in open-source advocacy | APIs | CI/CD | web3 
 - 🌱 I’m currently learning fullstack software development.
 - 💞️ I’m looking to collaborate on open-source UI component libraries.
 - 📫 How to reach me emmanuelgoodness923@gmail.com
