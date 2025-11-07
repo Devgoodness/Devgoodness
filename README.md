@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning fullstack software development.
 - 💞️ I’m looking to collaborate on open-source UI component libraries.
 - 📫 How to reach me emmanuelgoodness923@gmail.com
-- ⚡ Fun fact: ...Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng, Habu Dawaki)📖, Zulu man with some powers (call me GUDU)😎.
+- ⚡ Fun fact: ...Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng, Habu Dawaki)📖, Zulu man with some powers (call me GUDU)😎, also call me terminal.
 - 
   Languages, technologies & tools i work with.
   
