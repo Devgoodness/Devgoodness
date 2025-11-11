@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open-source UI component libraries.
 - 📫 How to reach me emmanuelgoodness923@gmail.com
 - ⚡ Fun fact: ...Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng, Habu Dawaki)📖, Zulu man with some powers (call me GUDU).
-- 
+- Bring jobs🤝
   Languages, technologies & tools i work with.
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,redux,git,typescript,github,vscode,npm,firebase,svelte)](https://skillicons.dev)
