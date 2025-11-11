@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Goodness, a detail-oriented frontend developer with over 2 years of experience in crafting responsive, user-friendly and fast interfaces for web applications.
+- 👋 Hi, I’m Goodness, a detail-oriented frontend developer with over 3 years of experience in crafting responsive, user-friendly and fast interfaces for web applications.
 - proficient in HTML, CSS, javaScript, react, git, nodejs, redux, tailwind css and typescript.
 - 👀 I’m interested in open-source advocacy | APIs | CI/CD | web3 | Data structures & algorithm 
 - 🌱 I’m currently learning fullstack software development.
