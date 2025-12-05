@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devgoodness, a detail-oriented frontend engineer and wordpress developer with over 3 years of experience in crafting responsive, user-friendly and fast interfaces for web applications.
-- proficient in HTML, CSS, javaScript, react, git, nodejs, redux, tailwind css and typescript.
+- proficient in HTML, CSS, javaScript, react, git, nodejs, redux, sass, tailwind css, typescript.
 - 👀 I’m interested in open-source advocacy | APIs | CI/CD | web3 | Data structures & algorithm 
 - 🌱 I’m currently learning fullstack software development.
 - 💞️ I’m looking to collaborate on open-source UI component libraries and web3 projects.
