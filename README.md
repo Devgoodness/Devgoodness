@@ -2,7 +2,7 @@
 - proficient in HTML, CSS, javaScript, react, git, nodejs, redux, tailwind css, typescript, golang.
 - 👀 I’m interested in open-source advocacy | CI CD | APIs | web3 | Blockchain technology 
 - I’m currently learning fullstack software engineering, cloud computing.
-- 💞️ I’m looking to collaborate on open-source UI component libraries and web3 projects...
+- 💞️ I’m looking to collaborate on open-source UI component libraries and web3 front-end projects...
 - 📫 How to reach me emmanuelgoodness923@gmail.com
 - ⚡ Fun fact: ...King of the aliens, Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng, Habu Dawaki)📖, Zulu man with some powers (call me GUDU). I live in the terminal, i live in Alienxpace HQ</>
 - Languages, technologies & tools i work with.
