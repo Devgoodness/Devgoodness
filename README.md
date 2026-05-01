@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Goodness, a detail-oriented frontend engineer and wordpress developer with over 3 years of experience in crafting responsive, user-friendly and fast interfaces for web applications.
+- 👋 Hi, I’m Goodness, a frontend engineer and WordPress developer with over 3 years of experience building responsive, fast, and user-friendly web interfaces.
 - proficient in HTML, CSS, javaScript, react, git, nodejs, redux, tailwind css, typescript, golang.
 - 👀 I’m interested in open-source advocacy | CI CD | APIs | web3 | Blockchain technology | Cloud engineering 
 - I’m currently learning software engineering, cloud computing.
