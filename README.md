@@ -7,7 +7,7 @@
 - ⚡ Fun fact: King of the aliens, Caffeine-fueled coder☕, bookworm(Tim Berners-lee, Andrew Ng, Habu Dawaki)📖, Zulu man with some powers (call me GUDU). I live in the terminal </>
 - Languages and tools i work with.
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,redux,git,typescript,github,golang,vscode,npm,firebase,svelte,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,redux,git,typescript,github,golang,vscode,npm,firebase,svelte,Claude,wordpress)](https://skillicons.dev)
 -  
 <!---
 Devgoodness/Devgoodness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
