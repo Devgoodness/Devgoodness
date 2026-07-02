@@ -2,7 +2,7 @@
 - proficient in HTML, CSS, javaScript, reactjs, git, nodejs, tailwind css, typescript, mongodb
 - 👀 I’m interested in open-source advocacy | CI CD | APIs | web3 | DSA | Blockchain technology | Cloud engineering | SDLC
 - I’m currently learning software engineering, web3, Linux Operating System, Blockchain, system design and cloud engineering, MERN stack.
-- 💞️ I’m looking to collaborate on open-source UI component libraries and front-end projects...
+- 💞️ I’m looking to collaborate on open-source UI component libraries, web3 projects and front-end projects...
 - 📫 How to reach me emmanuelgoodness923@gmail.com
 - ⚡ Fun fact: King of the aliens, Caffeine-fueled coder☕, bookworm📖, Zulu man with some powers (call me GUDU). I live in the terminal </>
 - Languages and tools i work with.
